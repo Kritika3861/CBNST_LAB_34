@@ -13,7 +13,7 @@ int main()
         arr[i]=r;
         num=num/2;
     }
-    count=i;1
+    count=i;
     for(i=count;i>0;i--)
     {
         printf("%d",arr[i]);
